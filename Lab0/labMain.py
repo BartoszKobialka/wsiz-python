@@ -1,6 +1,23 @@
 import random
 import math
 
+#1 
+# + operator dodawania 
+# - operator odejmowania
+# / operator dzielenia
+# // dzielenie całkowite
+# % reszta z dzielenia
+# ** potęgowanie
+# 
+
+#2 
+# int(3.0) -> 3 przekształca argument w liczę całkowitą, w tym przypadku "odcinając" częśc dziesiętną
+# float(3) -> 3.0 przekształca argument w liczę rzeczywistą
+# float("3") -> 3.0 przekształca argument w liczę rzeczywistą, w tym przypadku argumentem jest ciąg znaków mozliwy do przekształcenia
+# str(12.4) -> "12.4" przekształca argument w ciąg znaków
+# bool(0) -> False przekształca argument w wartośc logiczną
+# 
+
 #3
 def ex3():
     x = int(input("Podaj dlugosc: "))
