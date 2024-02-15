@@ -52,6 +52,7 @@ def ex4():
         print(i)
 
 #RUN
-# ex1()
-# ex3()
+ex1()
+ex2()
+ex3()
 ex4()

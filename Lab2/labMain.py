@@ -17,6 +17,12 @@ def ex1():
         print(a)
         a+=1
 
+#2
+def ex2():
+    for i in range(-8, 9):
+        x = i/2
+        print(2*x**2-5*x-8)
+
 #3
 def ex3():
     while True:
@@ -44,7 +50,7 @@ def ex4():
         a += 1
 
 # RUN
-# ex1()
-# ex2()
-# ex3()
-# ex4()
+ex1()
+ex2()
+ex3()
+ex4()
